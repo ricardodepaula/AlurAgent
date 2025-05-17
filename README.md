@@ -3,7 +3,7 @@
 **Transforme suas ideias em software mais rápido e com mais qualidade!**
 
 [![Vídeo de Demonstração do Projeto](https://img.youtube.com/vi/VIDEO_ID_AQUI/hqdefault.jpg)](https://www.youtube.com/watch?v=A00p4TGlpPg)
-*(Clique na imagem acima para ver o Assistente em Ação! Substitua VIDEO_ID_AQUI pelo ID do seu vídeo)*
+*(Clique na imagem acima para ver o Assistente em Ação!)*
 
 ---
 
